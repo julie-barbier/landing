@@ -1,0 +1,9 @@
+.avatar {
+    width: 210px;
+    height: 170px;
+    border-radius: 50%;
+}
+.cards {
+	display: flex;
+    flex-wrap: wrap;
+}
